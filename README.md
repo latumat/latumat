@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas
+- 👋 Hi, I’m Thomas.
 - 👀 I’m interested in eigenvalues and eigenvectors.
 - 🌱 I’m currently learning full stack development!
 - 💞️ I’m looking for new opportunies in the tech industry!
