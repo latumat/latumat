@@ -5,11 +5,11 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@nguyen.huy.thomas@gmail.com)](mailto:mail@nguyen.huy.thomas@gmail.com)
 
 ---
-
-- 👋 Hi, I’m Thomas.
-- 👀 I’m interested in eigenvalues and eigenvectors.
-- 🌱 I’m currently learning full stack development!
-- 💞️ I’m looking for new opportunies in the tech industry!
+### Currently
+- 💻 Developing cool Java/Spring stuff at Intact Financial Corp.
+- 🌱 Working on a translation app to help students with learning difficulties as part of Hack4Impact McGill
+- 📚 Interested in eigenvalues and eigenvectors
+- 👀 Looking for new opportunies in the tech industry!
 - 📫 How to reach me: [Linkedin👈](https://www.linkedin.com/in/thomas-huy-nguyen/)
 
 <!---
