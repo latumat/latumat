@@ -1,3 +1,8 @@
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi I'm Thomas!</h3>
+
+---
+
 - 👋 Hi, I’m Thomas.
 - 👀 I’m interested in eigenvalues and eigenvectors.
 - 🌱 I’m currently learning full stack development!
